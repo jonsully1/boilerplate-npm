@@ -4,6 +4,7 @@
   "description": "A project to understand managing packages with NPM",
   "keywords": [ "freecodecamp", "tutorial", "npm" ],
   "license": "MIT",
+  "version": "1.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
