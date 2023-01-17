@@ -3,6 +3,7 @@
   "author": "John O'Sullivan",
   "description": "A project to understand managing packages with NPM",
   "keywords": [ "freecodecamp", "tutorial", "npm" ],
+  "license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
